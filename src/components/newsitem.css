@@ -1,0 +1,22 @@
+.news-app {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.news-item {
+    width: 600px;
+    padding: 20px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    border-width: 2px;
+    
+
+}
+
+.news-img {
+    width: 300px;
+    
+}
